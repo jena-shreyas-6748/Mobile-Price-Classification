@@ -8,6 +8,6 @@ The dataset was first analyzed by doing extensive EDA and then various hyperpara
 
 I have uploaded the code file and project report for the same. The report contains a detailed explanation for the rationale behind the code.
 
-Special thanks to Nitish Bhardwaj Putrevu and Bharath TVNS who helped to make this possible!
+Special thanks to Nitish Bhardwaj Putrevu and Bharath TVNS who helped make this possible!
 
 Hope you like it :)
